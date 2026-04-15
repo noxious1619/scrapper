@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+amazon_reviews.csv
+report.txt
+report.json
